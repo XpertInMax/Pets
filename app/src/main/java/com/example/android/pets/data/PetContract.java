@@ -11,6 +11,7 @@ public final class PetContract {
     public PetContract(){
         
     }
+
     /* Inner class that defines the table contents of the location table */
     public static final class PetEntry implements BaseColumns {
         // Table name
